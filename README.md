@@ -1,5 +1,6 @@
 # Data-Science-Competitions
-# Loans default will cause huge loss for the banks, so they pay much attention on this issue and apply various method to detect and predict default behaviours of their customers.here I am going to talk about the basic process of loan default prediction with machine learning algorithms.
+## Analytics Vidhya Loan Competition III
+##### Loans default will cause huge loss for the banks, so they pay much attention on this issue and apply various method to detect and predict default behaviours of their customers.here I am going to talk about the basic process of loan default prediction with machine learning algorithms.
 
 #Project Motivation::::
 The loan is one of the most important products of the banking. All the banks are trying to figure out effective business strategies to persuade customers to apply their loans. However, there are some customers behave negatively after their application are approved. To prevent this situation, banks have to find some methods to predict customers’ behaviours. Machine learning algorithms have a pretty good performance on this purpose, which are widely-used by the banking. Here, I will work on loan behaviours prediction using machine learning models.
